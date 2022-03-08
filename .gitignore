@@ -1,0 +1,11 @@
+# Django sqlite3 exclude files and folders
+.pytest_cache
+__pycache__
+.editorconfig
+.vscode
+.idea
+venv
+env
+django_sqlite3/.envs/local
+django_sqlite3/.envs/production
+django_sqlite3/.envs/test

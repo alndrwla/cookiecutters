@@ -1,0 +1,6 @@
+# Django
+Django==3.2.12
+# Env
+django-environ==0.8.1
+# Flake
+flake8==4.0.1
